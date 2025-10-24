@@ -6,6 +6,6 @@ mass  1 15.998999995884349 # O
 mass  3 88.905839977129475 # Y
 
 pair_style quip
-pair_coeff * * gp1.xml "Potential xml_label=GAP_2025_10_14_60_21_43_57_17" 8 29 39 56
+pair_coeff * * gp1.xml "Potential xml_label=GAP_2025_8_9_60_6_54_43_259" 8 29 39 56
 
 ```
