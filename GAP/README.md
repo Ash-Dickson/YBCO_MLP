@@ -1,4 +1,4 @@
-In order to use the GAP potential, LAMMPS must be compiled with QUIP (https://docs.lammps.org/Build_extras.html#ml-quip). For all purposes we recommend using the tabGAP, however, we include the GAP for completness. pairpot.xml contains a fitted short range potential to data from https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.032818. Run a GAP simulation with the following LAMMPS input.
+In order to use the GAP potential, LAMMPS must be compiled with QUIP (https://docs.lammps.org/Build_extras.html#ml-quip). For all purposes we recommend using the tabGAP, however, we include the GAP for completness. pairpot.xml contains a fitted short range potential to data from https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.032818. Run a GAP simulation with the following LAMMPS input. Furthermore, the training script for the GAP is attached.
 ```
 mass  4 137.3269999646734 # Ba
 mass  2 63.545999983653154 # Cu
