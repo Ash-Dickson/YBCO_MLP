@@ -3,9 +3,9 @@ A collection of machine learned potentials for YBCO, trained using ACE, MACE, GA
 
 Downloading the potential files can either be done by downloading the raw data directly from github, or by cloning the repository. To clone the repository you must first have git lfs installed:
 
-'''
+"""
 git lfs install
-'''
+"""
 
-Then simply use '''git clone --recursive GIT_URL_HERE'''.
+Then simply use """git clone --recursive GIT_URL_HERE""".
 
