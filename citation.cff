@@ -1,6 +1,5 @@
 @misc{Dickson2025GAP,
-  author = {Ashley Dickson, Niccolò Di Eugenio, Flyura Djurabekova, Francesco Laviano,Federico Ledda, Daniele Torsello, Erik Gallo, Mark R. Gilbert, Duc
-Nguyen-Manh,Antonio Trotta,Samuel T. Murphy, Davide Gambino},
+  author = {Ashley Dickson, Niccolò Di Eugenio, Flyura Djurabekova, Francesco Laviano,Federico Ledda, Daniele Torsello, Erik Gallo, Mark R. Gilbert, Duc Nguyen-Manh,Antonio Trotta,Samuel T. Murphy, Davide Gambino},
   title = {YBCO GAP and tabGAP},
   year = {2025},
   publisher = {GitHub},
